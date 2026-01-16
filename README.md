@@ -21,7 +21,7 @@ El informe explicativo con el análisis se encuentra también en el documento de
 
 **ANALISIS CAMPAÑA MARKETING BANCO PORTUGUÉS**
 
-Las campañas de marketing del banco no son exitosas. Un 88% de los clientes no se ha suscrito a un producto del banco en esta última campaña.
+Las campañas de marketing del banco no son exitosas. Un 88% de los clientes no se ha suscrito a un producto del banco en esta última campaña.  
  <img width="563" height="436" alt="imagen" src="https://github.com/user-attachments/assets/4b89d423-53ef-473f-80f6-0dace8979f14" />
 
 No solo eso, la campaña anterior también tuvo un fallo mayor que éxito entre aquellos clientes que fueron contactados con 4.4k de fallos vs  1.4k de éxito.
