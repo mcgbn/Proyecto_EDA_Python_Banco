@@ -35,7 +35,7 @@ En cuanto a los datos demográficos de los clientes contactados en la campaña, 
 <img width="490" height="359" alt="imagen" src="https://github.com/user-attachments/assets/7fe5bb54-4e1c-423a-83ec-4eabd319284c" />
 
 La mayoría cuenta con educación universitaria, con  12.7k de los contactos habiéndola obtenido, seguida de nivel de educación secundaria (9.9k). 
-<img width="507" height="373" alt="imagen" src="https://github.com/user-attachments/assets/ca8bca5c-40b0-41a3-9047-34c1f624773f" />
+<img width="731" height="459" alt="imagen" src="https://github.com/user-attachments/assets/db5e0cca-d68b-4c79-b3d8-35f401e7a65b" />
 
 Los trabajos más frecuentes son de administrativos (el 25% de los clientes), obreros (22%) y técnicos (16%). Tienen como máximo 3 niños y 3 adolescentes, repartidos de forma equitativa.
  <img width="657" height="439" alt="imagen" src="https://github.com/user-attachments/assets/0234514e-5f2c-437c-89a8-fa511ffeb706" />
