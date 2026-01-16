@@ -16,3 +16,5 @@ En ambos casos se crean documentos .csv con los cambios aplicados (en carpeta ou
 A partir de esos documentos limpios:
 - Unificamos ambos documentos en una misma tabla a través de los id únicos
 - Realizamos un análisis y creamos gráficos (carpeta visualizaciones)
+
+El informe explicativo con el análisis se encuentra en el documento de word adjuntado "Análisis de campaña de marketing...".
